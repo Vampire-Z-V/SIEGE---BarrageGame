@@ -1,0 +1,18 @@
+﻿  Console.cpp
+Console.cpp(78): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  GameManager.cpp
+GameManager.cpp(151): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+GameManager.cpp(152): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+GameManager.cpp(169): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+GameManager.cpp(171): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+GameManager.cpp(253): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+GameManager.cpp(254): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+GameManager.cpp(272): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+GameManager.cpp(273): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+GameManager.cpp(750): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating code
+  All 1586 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Barrage_game.vcxproj -> C:\Users\84682\Documents\Visual Studio 2015\Projects\Barrage_game\x64\Release\Barrage_game.exe
+  Barrage_game.vcxproj -> C:\Users\84682\Documents\Visual Studio 2015\Projects\Barrage_game\x64\Release\Barrage_game.pdb (Full PDB)
